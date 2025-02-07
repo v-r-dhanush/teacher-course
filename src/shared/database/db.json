@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "CourseId": "C001",
+      "CourseName": "Math 101",
+      "Description": "Introduction to Mathematics",
+      "Teacher": "John Doe"
+    },
+    {
+      "id": "2",
+      "CourseId": "C002",
+      "CourseName": "Science 101",
+      "Description": "Introduction to Science",
+      "Teacher": "Jane Doe "
+    },
+    {
+      "id": "2be5",
+      "CourseId": "4572",
+      "CourseName": "tarun",
+      "Description": "na oru kena punda",
+      "Teacher": "malu maatti"
+    }
+  ]
+}
